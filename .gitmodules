@@ -1,0 +1,3 @@
+[submodule "huggingface.co/bert-base-uncased"]
+	path = huggingface.co/bert-base-uncased
+	url = https://huggingface.co/bert-base-uncased
